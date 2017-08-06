@@ -1,0 +1,36 @@
+body{
+		font-family: '微软雅黑', Arial
+		line-height: 2;
+		text-align: center;
+		background-color: #fff2e3;        
+}
+a{
+  text-decoration:none;
+}
+.title{
+	font-size: 3em;
+	color:#87968e;
+}
+
+p{
+  text-align:center;
+  color:#aaa; 
+}
+
+.btn{
+  background-color:#72b890;
+  color:#fff;
+  padding:10px;
+  margin:20px 4px;
+  line-height:1;
+  display:inline-block;
+  border-radius:3px
+}
+
+.cover{
+  width:400px
+}
+
+.copyright a{
+  color:#72b890
+}
